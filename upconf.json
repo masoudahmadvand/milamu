@@ -1,7 +1,7 @@
 {
     "version":"1.0.0",
-    "msg":"",
-    "action":false,
+    "msg":"update is avalable do you want update your app?",
+    "action":true,
     "delete":[
         {
             "path":"server.js",
