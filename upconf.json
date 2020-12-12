@@ -2,6 +2,7 @@
     "version":"1.0.0",
     "msg":"update is avalable do you want update your app?",
     "action":true,
+    "url":"https://raw.githubusercontent.com/masoudahmadvand/milamu/main/app.zip",
     "delete":[
         {
             "path":"server.js",
