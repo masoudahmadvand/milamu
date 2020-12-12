@@ -1,0 +1,11 @@
+{
+    "version":"1.0.0",
+    "msg":"",
+    "action":false,
+    "delete":[
+        {
+            "path":"server.js",
+            "mode":"none"
+        }
+    ]
+}
